@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{ 
+   font-family: "Comic Sans MS", Sans-Serif;
+  background-image: url("Screenshot\ 2025-08-11\ 152644.png")
+
+
+
+
+
+
+
+
+    }
+
+nav{
+
+ display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #FFFFFF;
+  font-size: 30px;
+  border-radius:20px ;
+}
+.Info{
+  background-color: #56c1fb ;
+  border-radius: 20px;
+  color: #f1eeee;
+  height: 220px;
+  width: 400px;
+  
+}
+.DHeading{
+  color: #FFFFFF;
+
+  
+}
+
+
+.Desires{
+  background-color: #56c1fb ;
+  border-radius: 20px;
+  color:#f1eeee ;
+}
+button{
+
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-radius: 20px;
+  font-size: 40px;
+  color: #3e1895;
+}
+
